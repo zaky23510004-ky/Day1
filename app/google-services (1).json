@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56018237941",
+    "project_id": "zakyzain-3997d",
+    "storage_bucket": "zakyzain-3997d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56018237941:android:744e0a702954f99d5108bc",
+        "android_client_info": {
+          "package_name": "com.example.day1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyNQrOIUoBioN9yQpKeMcJrGbO82V_l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
